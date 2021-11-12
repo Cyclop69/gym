@@ -1,11 +1,19 @@
 *{box-sizing: border-box;}
 
-
-
 body{
 background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmkQSPf5AYLz8Q5W-YXafNi34bDmlFR0SGcg&usqp=CAU');
 background-repeat:no-repeat;
 width:100%;
 
 background-size:1960px 1200px;}
+
+.navbar{background-color:black;
+position:fixed;}
+.navop{display:inline-block;}
+.nava{text-decoration:none;
+color:white;
+font-size:25px;}
+
+
+
 .a{color:white;}
